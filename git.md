@@ -9,5 +9,5 @@
 - `git push -u origin main` - Pushes the created commit to the github repository
 - `git status` 
     - Checks if the remote repository(on github) has any new commits
-    - Displays any files that have been modified/added/removed for the user to decide what to commit
-
+    - Displays any files that have been modified/added/removed and the commit status
+- `git log` - displays commits
