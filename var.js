@@ -26,3 +26,5 @@ console.log(sun);
 
 //sun = "dark"; // if trying to change, Node.js will display an error
 //console.log(sun);
+
+//comment
