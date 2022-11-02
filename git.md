@@ -7,3 +7,7 @@
 - `git branch -M main` - Selects/creates the branch
 - `git remote add origin https://github.com/Nitya-108/javascriptExercises.git` - Specifies which repository to use
 - `git push -u origin main` - Pushes the created commit to the github repository
+- `git status` 
+    - Checks if the remote repository(on github) has any new commits
+    - Displays any files that have been modified/added/removed (Changes not staged for commits)
+
