@@ -11,6 +11,7 @@ var rate = 350;
 var hours = 30;
 var discount = 0;
 
+// nested if statement
 if (rate < 300) {
     console.log("Decline rate offered");
 } else {
