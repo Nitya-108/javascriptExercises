@@ -31,6 +31,7 @@
 // Always display: travel time, km's traveled, destination, time remaining
 
 // *** Need loops ***
+// *** WIP ***
 
 var ruppees = 200;
 var timeAvailable = 360; // in minutes
